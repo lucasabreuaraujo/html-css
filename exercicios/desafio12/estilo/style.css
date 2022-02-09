@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+header{
+    background-color: black;
+    background-position: center center;
+    padding: 10px;
+    margin:-7px;
+
+}
+
+body{
+    background-image: url(imagens/background001.jpg);
+}
+h1{
+    font: white;
+}
+p{
+    font-size: 16px; 
+    font-weight: 600;
+    font-style: italic;
+}
